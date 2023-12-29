@@ -1,0 +1,15 @@
+{
+  "name": "chai-and-backend-advance",
+  "version": "1.0.0",
+  "description": "a backend on a video streming platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Vishal Prakash",
+  "license": "ISC"
+}
